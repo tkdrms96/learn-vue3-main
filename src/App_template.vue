@@ -39,7 +39,7 @@ export default {
 		const textWatch = ref('');
 
 		computed('textWatch', () => {
-			console.log('지켜보고있다.');
+			console.log('지켜보고있겠다');
 		});
 
 		return {
